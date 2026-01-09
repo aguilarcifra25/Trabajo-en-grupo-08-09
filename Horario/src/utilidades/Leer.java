@@ -1,5 +1,6 @@
 package utilidades;
 
+<<<<<<< HEAD
 
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
@@ -7,6 +8,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.*;
 
+=======
+import java.io.*;
+>>>>>>> rama-paco
 
 public class Leer {
 
@@ -56,8 +60,12 @@ public class Leer {
 		return Double.parseDouble(dato());
 	}
 
+<<<<<<< HEAD
 
 }
 
 
 
+=======
+}
+>>>>>>> rama-paco
