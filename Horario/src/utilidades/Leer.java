@@ -1,13 +1,6 @@
 package utilidades;
 
-<<<<<<< HEAD
-import java.io.BufferedInputStream;
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-=======
 import java.io.*;
->>>>>>> 136c5ba7430c459cc4cd26f4d0533950b58280f4
 
 public class Leer {
 
@@ -57,8 +50,4 @@ public class Leer {
 		return Double.parseDouble(dato());
 	}
 
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 136c5ba7430c459cc4cd26f4d0533950b58280f4
